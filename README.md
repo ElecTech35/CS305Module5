@@ -7,4 +7,4 @@ What will be changed depends entirly upon your
 3. Talent
 4. [Inset something here]
 :+1:
-Uses GNU GENERAL PUBLIC LICENSE which is a copyleft licence
+Uses GNU GENERAL PUBLIC LICENSE which is a copyleft licence. This means anything created with this needs to be open source.
