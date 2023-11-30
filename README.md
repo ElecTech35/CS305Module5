@@ -1,5 +1,5 @@
 # CS305Module5
-<h1>The Best Fake Project</h1>
+<h1>The Best Fake Real Project</h1>
 This project is the best because it will change everything.
 What will be changed depends entirely upon your
 1. Imagination
