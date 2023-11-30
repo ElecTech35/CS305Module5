@@ -5,6 +5,6 @@ What will be changed depends entirly upon your
 1. Imagination
 2. Skill
 3. Talent
-4. [Inset something here]
+4. [Insert something here]
 :+1:
 Uses GNU GENERAL PUBLIC LICENSE which is a copyleft licence. This means anything created with this needs to be open source.
