@@ -7,3 +7,4 @@ What will be changed depends entirly upon your
 3. Talent
 4. [Inset something here]
 :+1:
+Uses GNU GENERAL PUBLIC LICENSE
